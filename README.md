@@ -7,3 +7,4 @@ For an overview of the CIP process in my own words & based on my own experiences
 2. [Cardano Improvement Proposals (CIPs) — Benefits & Goals](https://rxphair.medium.com/cardano-improvement-proposals-cips-benefits-goals-13416c3c5f05)
 3. [Cardano Improvement Proposals (CIPs) — Challenges: Past, Present & Future](https://rxphair.medium.com/cardano-improvement-proposals-cips-challenges-past-present-future-dc14e78cb6c4)
 
+Brief introduction to CIPs & the author's role as CIP Editor: https://cosd.com/cardano
