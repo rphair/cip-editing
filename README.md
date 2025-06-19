@@ -1,6 +1,6 @@
 See current funded Catalyst project: [Fund 13: Community CIP Editor Robert Phair: 8 month budget](https://projectcatalyst.io/funds/13/cardano-open-ecosystem/community-cip-editor-robert-phair-8-month-budget)
 
-Previously funded projects (continuous):
+Previously funded projects (for continuous CIP support):
 * [Fund 10: Community CIP Editor: 1 year budget (continued)](https://projectcatalyst.io/funds/10/development-and-infrastructure/community-cip-editor-1-year-budget-continued)
 * [Fund 9: Community CIP Editor: 1 year budget](https://projectcatalyst.io/funds/9/f9-the-great-migration-from-ethereum/community-cip-editor-1-year-budget)
 
