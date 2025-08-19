@@ -1,4 +1,4 @@
-These reports demonstrate the value and applicability of Catalyst funding toward Cardano's CIP process, including both:
+These reports are intended to clarify the author's work on the CIP process as well as demonstrate the value and applicability of Catalyst funding, covering:
 1. Regular role of CIP editor, shared with other CIP editors (see Contributors page & official list)
 2. Individually funded community outreach, documentation efforts, daily communications and repository maintenance
 
