@@ -1,5 +1,5 @@
-These reports are intended to clarify the author's work on the CIP process as well as demonstrate the value and applicability of Catalyst funding, covering:
-1. Regular role of CIP editor, shared with other CIP editors (see Contributors page & official list)
+These reports are intended to clarify the author's work on the CIP process, as well as demonstrate the value and applicability of Catalyst funding to cover:
+1. Regular role of CIP editor, shared with other CIP editors (see [Contributors](https://cips.cardano.org/contributors) page & [official editors list](https://github.com/cardano-foundation/CIPs/tree/master#editors))
 2. Individually funded community outreach, documentation efforts, daily communications and repository maintenance
 
 The official Catalyst page for the current funding request (_Fund 14: Community CIP Editor Robert Phair: 6 month budget_) will be posted here when finalised by the Catalyst team in the 2nd half of August 2025.  Since the conclusion of the F
