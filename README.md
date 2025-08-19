@@ -2,9 +2,9 @@ These reports are intended to clarify the author's work on the CIP process, as w
 1. Regular role of CIP editor, shared with other CIP editors (see [Contributors](https://cips.cardano.org/contributors) page & [official editors list](https://github.com/cardano-foundation/CIPs/tree/master#editors))
 2. Individually funded community outreach, documentation efforts, daily communications and repository maintenance
 
-The official Catalyst page for the current funding request (_Fund 14: Community CIP Editor Robert Phair: 6 month budget_) will be posted here when finalised by the Catalyst team in the 2nd half of August 2025.  Since the conclusion of the Fund 13 project at end of May 2025, work on the CIP process has continued daily in anticipation of funding being provided retroactively.
+The official Catalyst page for the current funding request (_Fund 14: Community CIP Editor Robert Phair: 6 month budget_) will be posted here when finalised by the Catalyst team in the 2nd half of August 2025.
 
-Previously funded projects (providing continuous CIP support):
+Since the conclusion of the Fund 13 project at end of May 2025, work on the CIP process has continued daily in anticipation of funding being provided retroactively.  Previously funded projects (providing continuous CIP support):
 * [Fund 13: Community CIP Editor Robert Phair: 8 month budget](https://projectcatalyst.io/funds/13/cardano-open-ecosystem/community-cip-editor-robert-phair-8-month-budget) ([completion video](https://www.youtube.com/watch?v=cfCDXuQ6BEo))
 * [Fund 10: Community CIP Editor: 1 year budget (continued)](https://projectcatalyst.io/funds/10/development-and-infrastructure/community-cip-editor-1-year-budget-continued) ([completion video](https://www.youtube.com/watch?v=qvrl61ySwek))
 * [Fund 9: Community CIP Editor: 1 year budget](https://projectcatalyst.io/funds/9/f9-the-great-migration-from-ethereum/community-cip-editor-1-year-budget) ([completion video](https://www.youtube.com/watch?v=0lyyj9eArhU))
