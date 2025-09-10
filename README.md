@@ -4,7 +4,7 @@ These reports are intended to clarify the author's work on the CIP process, as w
 
 This current Catalyst proposal is to support infrastructure and responsiveness in the CIP process by assuring a dedicated time budget to attend to these details every day (as reported in this repository), with ongoing documentation and other community efforts to keep standards relevant to the Cardano ecosystem:
 
-✅ **[Fund 14: Community CIP Editor Robert Phair: 6 month budget](https://projectcatalyst.io/funds/14/cardano-open-ecosystem/community-cip-editor-robert-phair-6-month-budget)**
+### ✅ [Fund 14: Community CIP Editor Robert Phair: 6 month budget](https://projectcatalyst.io/funds/14/cardano-open-ecosystem/community-cip-editor-robert-phair-6-month-budget)
 
 Current & past proposals contain a roughly annual narrative summary of how the CIP process has evolved with the Cardano ecosystem each year. 
 
