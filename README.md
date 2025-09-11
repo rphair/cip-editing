@@ -8,7 +8,7 @@ This current (Q3 2025) Catalyst proposal is to support infrastructure and respon
 
 Current & past proposals contain a roughly annual narrative summary of how the CIP process has evolved with the Cardano ecosystem each year. 
 
-Since the conclusion of the Fund 13 project at end of May 2025, work on the CIP process has continued in anticipation of funding being granted retroactively.  Previously funded projects (providing continuous CIP support):
+Since the conclusion of the Fund 13 project at end of May 2025, the author's work on the CIP process has continued in anticipation of funding being granted retroactively.  Previously funded projects (providing continuous CIP support):
 * [Fund 13: Community CIP Editor Robert Phair: 8 month budget](https://projectcatalyst.io/funds/13/cardano-open-ecosystem/community-cip-editor-robert-phair-8-month-budget) ([completion video](https://www.youtube.com/watch?v=cfCDXuQ6BEo))
 * [Fund 10: Community CIP Editor: 1 year budget (continued)](https://projectcatalyst.io/funds/10/development-and-infrastructure/community-cip-editor-1-year-budget-continued) ([completion video](https://www.youtube.com/watch?v=qvrl61ySwek))
 * [Fund 9: Community CIP Editor: 1 year budget](https://projectcatalyst.io/funds/9/f9-the-great-migration-from-ethereum/community-cip-editor-1-year-budget) ([completion video](https://www.youtube.com/watch?v=0lyyj9eArhU))
