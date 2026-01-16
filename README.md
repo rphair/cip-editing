@@ -2,11 +2,11 @@ These reports are intended to clarify the author's work on the CIP process, as w
 1. Regular role of CIP editor, in common with other CIP editors (see [Contributors](https://cips.cardano.org/contributors) page & [official editors list](https://github.com/cardano-foundation/CIPs/tree/master#editors))
 2. Individually funded community outreach, documentation efforts, daily communications and repository maintenance
 
-These Catalyst proposals have been support infrastructure and responsiveness in the CIP process by assuring a dedicated time budget to attend to these details every day (as reported in this repository) with ongoing documentation and other community efforts to keep standards relevant to the Cardano ecosystem.
+The Catalyst proposals below have been support infrastructure and responsiveness in the CIP process by assuring a dedicated time budget to attend to these details every day (as reported in this repository) with ongoing documentation and other community efforts to keep standards relevant to the Cardano ecosystem.
 
 The result has been a graceful transition from Cardano's initial CIP editors team — originally delegated from Cardano's founding entities — to a decentralised, self-managing team of community editors accountable to a vast community of developers and observers but operating under our own direction.
 
-The funding proposals from lead editor Robert Phair, covering adjacent time periods, also contain a roughly annual narrative summary of how the CIP process has evolved with the Cardano ecosystem each year:
+These funding proposals from lead editor Robert Phair, covering adjacent time periods, also contain a roughly annual narrative summary of how the CIP process has evolved with the Cardano ecosystem each year:
 * [Fund 14: Community CIP Editor Robert Phair: 6 month budget](https://projectcatalyst.io/funds/14/cardano-open-ecosystem/community-cip-editor-robert-phair-6-month-budget)
 * [Fund 13: Community CIP Editor Robert Phair: 8 month budget](https://projectcatalyst.io/funds/13/cardano-open-ecosystem/community-cip-editor-robert-phair-8-month-budget) ([completion video](https://www.youtube.com/watch?v=cfCDXuQ6BEo))
 * [Fund 10: Community CIP Editor: 1 year budget (continued)](https://projectcatalyst.io/funds/10/development-and-infrastructure/community-cip-editor-1-year-budget-continued) ([completion video](https://www.youtube.com/watch?v=qvrl61ySwek))
