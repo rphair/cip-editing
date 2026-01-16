@@ -2,7 +2,7 @@ These reports are intended to clarify the author's work on the CIP process, as w
 1. Regular role of CIP editor, in common with other CIP editors (see [Contributors](https://cips.cardano.org/contributors) page & [official editors list](https://github.com/cardano-foundation/CIPs/tree/master#editors))
 2. Individually funded community outreach, documentation efforts, daily communications and repository maintenance
 
-The Catalyst proposals below have been support infrastructure and responsiveness in the CIP process by assuring a dedicated time budget to attend to these details every day (as reported in this repository) with ongoing documentation and other community efforts to keep standards relevant to the Cardano ecosystem.
+The Catalyst proposals below have supported infrastructure and responsiveness in the CIP process by assuring a dedicated time budget to attend to these details every day (as reported in this repository) with ongoing documentation and other community efforts to keep standards relevant to the Cardano ecosystem.
 
 The result has been a graceful transition from Cardano's initial CIP editors team — originally delegated from Cardano's founding entities — to a decentralised, self-managing team of community editors accountable to a vast community of developers and observers but operating under our own direction.
 
@@ -17,7 +17,7 @@ For an overview of the CIP process in the author's own words & experience (as of
 2. [Cardano Improvement Proposals (CIPs) — Benefits & Goals](https://rxphair.medium.com/cardano-improvement-proposals-cips-benefits-goals-13416c3c5f05)
 3. [Cardano Improvement Proposals (CIPs) — Challenges: Past, Present & Future](https://rxphair.medium.com/cardano-improvement-proposals-cips-challenges-past-present-future-dc14e78cb6c4)
 
-... which have since been developed into the Cardano Foundation's [CIP repository **Wiki**](https://github.com/cardano-foundation/CIPs/wiki).
+... which has since been developed into the Cardano Foundation's [CIP repository **Wiki**](https://github.com/cardano-foundation/CIPs/wiki).
 
 Brief introduction to CIPs & the author's role as CIP Editor: https://cosd.com/cardano
 
