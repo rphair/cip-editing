@@ -21,4 +21,4 @@ For an overview of the CIP process in the author's own words & experience (as of
 
 Brief introduction to CIPs & the author's role as CIP Editor: https://cosd.com/cardano
 
-To support the CIP process, please consider delegating your `ada` to [COSD stake pool](https://cosd.com/pool).
+To support the CIP process, please delegate your `ada` to [COSD stake pool](https://cosd.com/pool).
