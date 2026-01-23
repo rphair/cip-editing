@@ -1,6 +1,6 @@
 These reports are intended to clarify the author's work on the CIP process, as well as demonstrate the value and applicability of Catalyst funding (months October 2022 — November 2025) to cover:
-1. Regular role of CIP editor, in common with other CIP editors (see [Contributors](https://cips.cardano.org/contributors) page & [official editors list](https://github.com/cardano-foundation/CIPs/tree/master#editors))
-2. Individually funded community outreach, documentation efforts, daily communications and repository maintenance
+1. Additional workload in common role of CIP editor (among other editors: see [Contributors](https://cips.cardano.org/contributors) page & [official editors list](https://github.com/cardano-foundation/CIPs/tree/master#editors))
+2. Individually funded community outreach, documentation efforts, daily communications, and repository maintenance
 
 The Catalyst proposals below have supported infrastructure and responsiveness in the CIP process by assuring a dedicated time budget to attend to these details every day (as reported in this repository) with ongoing documentation and other community efforts to keep standards relevant to the Cardano ecosystem.
 
